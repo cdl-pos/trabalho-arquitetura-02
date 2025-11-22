@@ -3,13 +3,6 @@
 - CRUD de Produtos
 - CRUD de itens no carrinho
 
-```
-Cada pacote possui:
-- código de rastreio
-- destinatário
-- endereço
-- status
-```
 
 #### Endpoints
 - Função de adicionar ao carrinho
