@@ -24,6 +24,6 @@
 - Exemplo de Documentação https://github.com/secultce/aurora/blob/main/README.md
 
 Slides:
-- 22/11/2025 [Design Principles VS Design Patterns] (https://alessandrofeitoza.github.io/slides/2025/design-patterns-vs-design-principles-3.html)
+- 22/11/2025 [Design Principles VS Design Patterns](https://alessandrofeitoza.github.io/slides/2025/design-patterns-vs-design-principles-3.html)
 - 21/11/2025 [Database Patterns](https://alessandrofeitoza.github.io/slides/2025/database-patterns-v3.html)
 - 07/11/2025 [Padrões Arquiteturais](https://alessandrofeitoza.github.io/slides/aulas/2025/padroes-arquiteturais.html) 
