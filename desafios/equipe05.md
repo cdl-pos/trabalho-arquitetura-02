@@ -17,8 +17,7 @@ Cada agendamento possui:
 #### Regras
 - Um médico não pode ter duas consultas no mesmo horário
 - Paciente não pode agendar duas consultas simultâneas
-- Cancelamento com registro de motivo (Pattern: Soft Delete / Log Entity)
-
+- Cancelamento com registro de motivo 
 
 
 #### Use patterns:
