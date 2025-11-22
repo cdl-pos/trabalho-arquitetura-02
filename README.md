@@ -7,13 +7,13 @@
 5. Enviar até o dia 14/12 o link do repositorio publico no forms <https://forms.gle/xyrWz7k9CYSXXxZZ9> 
 
 ### DESAFIOS
-- Equipe 01 (Bruno, Edson e Reginaldo) [Lógistica/Rastreamento de entregas](./desafio-01.md)
-- Equipe 02 (Eugenio, Helder Romulo) [Sistema de Pedidos de Restaurante](./desafio-02.md)
-- Equipe 03 (Cliff, Daniel e Davi) [Sistema de Reserva de hotel](./desafio-03.md)
-- Equipe 04 (Wesley, Lucas e Renê) [Controle de Oficina Mecanica](./desafio-04.md)
-- Equipe 05 (Samuel, Jairo e Lucielton) [Agendamentos Hospitalares](./desafio-05.md)
-- Equipe 06 (Gabriel e Junior Amaral) [Gestão Escolar](./desafio-06.md)
-- Equipe 07 (Wellington, Natanael, Antonio Jose e Thomaz) [Carrinho de Compras](./desafio-07.md)
+- Equipe 01 (Bruno, Edson e Reginaldo) [Lógistica/Rastreamento de entregas](./desafios/equipe01.md)
+- Equipe 02 (Eugenio, Helder Romulo) [Sistema de Pedidos de Restaurante](./desafios/equipe02.md)
+- Equipe 03 (Cliff, Daniel e Davi) [Sistema de Reserva de hotel](./desafios/equipe03.md)
+- Equipe 04 (Wesley, Lucas e Renê) [Controle de Oficina Mecanica](./desafios/equipe04.md)
+- Equipe 05 (Samuel, Jairo e Lucielton) [Agendamentos Hospitalares](./desafios/equipe05.md)
+- Equipe 06 (Gabriel e Junior Amaral) [Gestão Escolar](./desafios/equipe06.md)
+- Equipe 07 (Wellington, Natanael, Antonio Jose e Thomaz) [Carrinho de Compras](./desafios/equipe07.md)
 
 ### Requisitos
 - Código
