@@ -11,6 +11,14 @@ Cada pacote possui:
 - status
 ```
 
+#### Endpoints
+- CRUD pacotes
+- Atualizar status
+- Consultar linha do tempo do pacote
+
+
+
+#### Use patterns:
 
 | Pattern                           | Por que usar                                     |
 | --------------------------------- | ------------------------------------------------ |
